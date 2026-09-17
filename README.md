@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=240&section=header&text=Aryan%20Chavan&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Building%20the%20Future&descSize=18&descAlignY=58&animation=fadeIn&repo=aryaanchavan1-commits/aryaanchavan1-commits" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=220&section=header&text=Aryan%20Chavan&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%2050%2B%20Projects%20Shipped&descSize=16&descAlignY=58&animation=fadeIn&repo=aryaanchavan1-commits/aryaanchavan1-commits" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Building+AI+systems+that+run+locally;Full-Stack+Developer+%26+ML+Engineer;50%2B+Projects+Shipped;Turning+ideas+into+reality)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=AI+Engineer+building+local-first+intelligent+systems;Full-Stack+Developer+%7C+Python+%7C+FastAPI+%7C+Next.js;Open+Source+%7C+50%2B+Repos+%7C+Shipping+Daily)
 
 </div>
 
@@ -16,10 +16,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanchavan)
+[![Website](https://img.shields.io/badge/Website-00d4ff?style=for-the-badge&logo=firefox&logoColor=white)](https://brochure-eosin.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-chavan-4b47b236b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codieryan_version/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryaanchavan1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryaanchavan1-commits)
-[![Website](https://img.shields.io/badge/Website-00d4ff?style=for-the-badge&logo=firefox&logoColor=white)](https://arynoxtech.com)
 
 </div>
 
@@ -27,7 +28,7 @@
 
 ---
 
-## <img src="https://em-content.zobj.net/source/twitter/408/waving-hand_1f44b.png" width="30"> About Me
+## <img src="https://em-content.zobj.net/source/twitter/408/waving-hand_1f44b.png" width="28"> About Me
 
 <br>
 
@@ -37,26 +38,26 @@
 
 ### I'm **Aryan Chavan** — AI Engineer & Full-Stack Developer
 
-I build **intelligent systems that run locally** — no cloud dependency, no data leaving your machine. From **AI-powered ERP systems** to **on-device computer vision**, I ship production-grade software that solves real problems.
+I build **intelligent systems that run locally** — no cloud, no data leaving your machine. From **AI-powered ERP platforms** serving businesses to **on-device computer vision** that sees through your camera, I ship production-grade software that solves real problems.
 
-**What I do:**
-- 🧠 **On-device AI** — Computer vision, speech processing, LLMs running 100% locally
-- 🏗️ **AI-Powered Business Systems** — ERP, hotel management, pharmacy, hospital systems
+**What I bring to the table:**
+- 🧠 **On-device AI** — Computer vision, speech processing, LLMs running 100% offline
+- 🏗️ **AI-Powered Business Systems** — ERP, hotel, pharmacy, hospital management
 - 🤖 **Automation & Bots** — WhatsApp, Instagram, call assistants, workflow automation
 - 🔬 **ML Research** — LLMs, RAG, world models, AGI research, deep learning
-- 🌐 **Full-Stack Apps** — Next.js, React, FastAPI, Flutter, Electron
+- 🌐 **Full-Stack Apps** — React, Next.js, FastAPI, Flutter, Electron
 
 </td>
 <td width="45%" valign="top">
 
 ### <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/rocket_1f680.png" width="22"> Quick Facts
 
-- 🔭 **50+ public repositories**
+- 🔭 **50+ public repositories** shipped
 - 🧠 Building **Arynox AI** — local-first AI platform
-- 💡 Philosophy: *"The best cloud is no cloud"*
-- ⚡ Stack: Python, TypeScript, FastAPI, Next.js, Flutter
+- 💡 *"The best cloud is no cloud"*
+- ⚡ **Python · TypeScript · FastAPI · Next.js**
 - 🎯 Focus: AI that respects your privacy
-- 📍 India → Building for the world
+- 📍 India — Building for the world
 
 </td>
 </tr>
@@ -664,18 +665,18 @@ Next-gen AI-powered code editor.
 
 ---
 
-## <img src="https://em-content.zobj.net/source/twitter/356/sparkles_2728.png" width="25"> Contribution Focus
+## <img src="https://em-content.zobj.net/source/twitter/356/sparkles_2728.png" width="25"> What I Work With
 
 <br>
 
 <div align="center">
 
 ```
-Languages     AI/ML     Full-Stack     Automation     Computer Vision     DevOps
- ████████████  █████████  ████████████   ██████████     ████████████        ████████
- Python        PyTorch    Next.js        WhatsApp       OpenCV              Docker
- TypeScript    TensorFlow React          Instagram      YOLO                Linux
- JavaScript    Ollama     FastAPI        ComfyUI        Qwen2.5-VL          Git
+Languages     AI/ML         Full-Stack      Automation       Computer Vision    DevOps
+████████████  ████████████  ██████████████  ██████████████   ████████████████   ████████
+Python        PyTorch       Next.js         WhatsApp         OpenCV             Docker
+TypeScript    TensorFlow    React           Instagram        YOLOv8             Linux
+JavaScript    Ollama        FastAPI         ComfyUI          Qwen2.5-VL         Git
 ```
 
 </div>
@@ -686,6 +687,6 @@ Languages     AI/ML     Full-Stack     Automation     Computer Vision     DevOps
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=120&section=footer&text=Thanks+for+visiting!+Let's+build+something+amazing+together.&fontSize=16&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=120&section=footer&text=Let's+build+something+amazing+together.&fontSize=18&fontColor=ffffff" width="100%"/>
 
 </div>
